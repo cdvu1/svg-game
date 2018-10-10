@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css?family=Francois+One');
+
+#player { 
+    fill:gold;
+}
+
+svg { 
+    position:absolute; 
+}
+
+#score {
+    text-transform: uppercase;
+    font-family: 'Francois One';
+}
